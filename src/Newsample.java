@@ -9,4 +9,7 @@ public class Newsample {
 		System.out.println("adsaddsa");
 	}
 
+	private void methoed1() {
+		System.out.println("adsaddsa");
+	}
 }
