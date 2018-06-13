@@ -12,4 +12,7 @@ public class Newsample {
 	private void methoed1() {
 		System.out.println("adsaddsa");
 	}
+	void methoed2() {
+		System.out.println("git");
+	}
 }
